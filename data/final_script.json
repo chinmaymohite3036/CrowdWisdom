@@ -1,0 +1,91 @@
+{
+  "concept": "NOISE → SIGNAL: A trader overwhelmed by market information finds clarity through professional trader insights aggregated by CrowdWisdomTrading.",
+  "target_icp": "Retail traders experiencing information overload from news, charts, social media, and alerts, seeking trusted professional intelligence to guide attention.",
+  "core_message": "CrowdWisdomTrading filters market noise by delivering professional trader insights and market intelligence across equities, FX, crypto, and futures.",
+  "estimated_duration_seconds": 50,
+  "verified_crowdwisdom_claims": [
+    "CrowdWisdomTrading aggregates insights from professional traders.",
+    "The platform covers equities, FX, crypto and futures.",
+    "The platform provides professional trader insights and market intelligence.",
+    "The website states that its network includes more than 12,000 professional traders."
+  ],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 8,
+      "purpose": "Immediate visual hook showing information overload.",
+      "visual_description": "A tan archival paper background. A flat-cutout trader silhouette in the center, surrounded by chaotic layers of black-and-white halftone news clippings, chart fragments, social media icons, and alert symbols. Each element has rough white keylines and offset hot-red strokes for emphasis. The composition feels dense and overlapping, with torn paper edges.",
+      "on_screen_text": ["TOO MUCH NOISE"],
+      "image_prompt": "Archival tan paper background, central black-and-white halftone trader cutout with rough white keyline, surrounded by chaotic floating paper cutouts of news headlines, stock charts, social media logos, and alert bells, all with rough white keylines and offset hot-red strokes, torn paper edges, visible print grain, tactile paper texture.",
+      "video_prompt": "Start with a wide shot of the chaotic layers. Perform a slow lateral drift camera movement from left to right across the diorama, revealing the depth of layered paper elements. Elements slightly overshoot into frame with a subtle spring motion. End with the camera settling on the trader silhouette as the noise peaks.",
+      "audio": "Rising cacophony of overlapping news tickers, alert beeps, fragmented voices, and rapid chart scrolling sounds, building tension.",
+      "transition": "ALERT WASH"
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 7,
+      "purpose": "Escalate the chaos with conflicting signals and opinions.",
+      "visual_description": "The trader remains centered. Now red arrows cut through the scene in opposing directions, halftone charts cross at sharp angles, and typewriter-style annotation labels appear with contradictory phrases like 'BUY' and 'SELL'. The background tan paper shows slight tearing at the edges. All elements retain rough white keylines and offset red accents.",
+      "on_screen_text": ["WHO DO YOU LISTEN TO?"],
+      "image_prompt": "Archival tan paper, trader cutout center, multiple red arrows with offset hot-red strokes pointing opposite ways, halftone chart fragments crossing, typewriter-style labels with conflicting text, rough white keylines on all cutouts, torn paper edges, print grain.",
+      "video_prompt": "Execute a slow push-in camera movement toward the trader as the red arrows draw themselves onto the scene and the labels stagger in with a slight bounce. The camera stops just before touching the trader, then settles as the visual tension peaks.",
+      "audio": "Disjointed voices shouting opposing market opinions, sharp chart line sounds, and a low dissonant drone.",
+      "transition": "TEAR"
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 6,
+      "purpose": "Create a moment of tension and pose the central question.",
+      "visual_description": "The chaos recedes to a muted tan background. The trader cutout is now shown with head in hands, a simple black-and-white halftone figure. A single large red question mark appears floating above, made of rough paper with a keyline. The scene feels quiet and isolated.",
+      "on_screen_text": ["WHAT DESERVES YOUR ATTENTION?"],
+      "image_prompt": "Muted archival tan paper, trader cutout with head in hands, black-and-white halftone, rough white keyline, a giant red question mark cutout above with offset hot-red stroke, torn paper edges, subtle print grain.",
+      "video_prompt": "Perform a slow vertical dive camera movement from above down to the trader's level as the question mark fades in with a slight overshoot. The camera ends at a medium close-up, then settles on the quiet scene.",
+      "audio": "Sudden silence, then a soft heartbeat-like pulse, followed by a faint breath.",
+      "transition": "STAMP"
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 9,
+      "purpose": "Introduce CrowdWisdomTrading as source of professional trader insights.",
+      "visual_description": "From the left, a stack of rectangular paper cards slides in, each card representing a professional trader insight. Cards are black-and-white halftone with rough white keylines, offset red strokes at the top, and typewriter-style labels reading 'PROFESSIONAL TRADER INSIGHT'. As they accumulate, they form a vertical filter line in front of the trader. A giant stat-style number '12,000+' appears in mustard-colored type near the bottom, referencing the verified trader count.",
+      "on_screen_text": [
+        "PROFESSIONAL TRADER INSIGHT",
+        "12,000+ PROFESSIONAL TRADERS"
+      ],
+      "image_prompt": "Archival tan paper background, trader cutout center, sliding in from left: multiple rectangular paper cards with black-and-white halftone texture, rough white keylines, offset hot-red strokes at top, typewriter labels 'PROFESSIONAL TRADER INSIGHT', cards stacking to form a filter, giant mustard-colored stat-style typography '12,000+' with rough keyline, torn paper edges, print grain.",
+      "video_prompt": "Execute a lateral track camera movement from left to right as the cards snap into position one by one with a slight overshoot, the stat number ticks upward with a counter effect. The camera stops when the filter is complete, then settles on the trader facing the insight cards.",
+      "audio": "Crisp paper slide sounds, a soft typewriter clack for each label, and a rising subtle harmonic tone.",
+      "transition": "TICK-UP"
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 8,
+      "purpose": "Transform chaos into clarity: noise recedes, signal emerges.",
+      "visual_description": "The chaotic news, charts, and alerts from earlier scenes begin to fade and move backward in depth, becoming translucent and smaller. In front of the trader, a single clean red line (the signal) emerges on the tan paper, underscored by a hot-red underline. A single clean red signal line emerges horizontally through the remaining noise, representing clarity and relevant information—not price performance. The background shows a muted map texture with faint halftone grids.",
+      "on_screen_text": ["FIND THE SIGNAL"],
+      "image_prompt": "Archival tan paper with muted map texture background, trader cutout center, fading translucent chaotic paper cutouts (news, charts, alerts) moving backward, a bold red line cutting forward with a hot-red underline, rough white keyline on the line, torn paper edges, print grain.",
+      "video_prompt": "Perform a slow orbit camera movement around the trader as the chaotic elements recede with a gentle drift and the red signal line draws itself from left to right, followed by the red underline swiping into place. The camera ends at a slight angle, then settles on the clear signal.",
+      "audio": "Chaotic sounds fade to a low hum, then a clear, pure tone rises as the signal appears, accompanied by a soft paper unfurling sound.",
+      "transition": "THREAD PULL"
+    },
+    {
+      "scene_number": 6,
+      "duration_seconds": 7,
+      "purpose": "Memorable final statement and call to action.",
+      "visual_description": "The scene simplifies to a clean tan paper background. The CrowdWisdomTrading name appears as bold ink-black typewriter-style text, centered, with a hot-red underline beneath. Below, a short call-to-action in smaller ink-black type: 'LEARN MORE'. No extra clutter; the composition feels resolved and authoritative.",
+      "on_screen_text": ["LEARN MORE"],
+      "image_prompt": "Archival tan paper, centered ink-black typewriter-style text 'CrowdWisdomTrading' with rough white keyline, hot-red offset underline, below in smaller ink-black type 'LEARN MORE', torn paper edges subtle, print grain.",
+      "video_prompt": "Execute a slow macro slide camera movement from bottom to top, revealing the text as it fades in with a slight overshoot, the underline draws itself left to right. The camera stops at the text, then settles on the final frame.",
+      "audio": "Final resonant chord, followed by a calm voiceover (optional) saying 'CrowdWisdomTrading', then silence.",
+      "transition": null
+    }
+  ],
+  "final_cta": "LEARN MORE",
+  "safety_notes": [
+    "All claims are limited to verified facts about CrowdWisdomTrading: aggregation of professional trader insights, coverage of equities/FX/crypto/futures, provision of professional trader insights and market intelligence, and network size of over 12,000 professional traders.",
+    "No performance guarantees, profit predictions, free trials, or testimonials are included.",
+    "Visual style strictly follows the VOX documentary collage / paper diorama aesthetic; no futuristic, glossy, or holographic elements are used.",
+    "On-screen text is kept short and uses only the approved phrasing.",
+    "Camera movement per scene is limited to one major motion as required."
+  ]
+}
