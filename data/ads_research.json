@@ -1,0 +1,24 @@
+[
+  {
+    "ad_id": "2119051775485694",
+    "page_name": "Trading Academy",
+    "title": "{{product.name}}",
+    "body_text": "{{product.brand}}",
+    "start_date": "2026-08-14",
+    "end_date": "2026-09-07",
+    "is_active": true,
+    "display_format": "DCO",
+    "cta_text": "Sign up",
+    "cta_type": "SIGN_UP",
+    "publisher_platform": [
+      "FACEBOOK",
+      "INSTAGRAM",
+      "MESSENGER"
+    ],
+    "page_like_count": 124871,
+    "collation_count": null,
+    "videos": [],
+    "query": "trading",
+    "link_url": "https://www.tradingacademy.com/registration/freeworkshop?utm_source=SPM&utm_medium=facebook&utm_campaign=NJGMFB1LD1025_1167_Facebook_NYC&utm_content=%7B%7Badset.id%7D%7D_%7B%7Bcampaign.id%7D%7D_%7B%7Bad.id%7D%7D&CampaignCode=NJGMFB1LD1025_1167_Facebook_NYC&CampaignId=701Nt00000ZyUgc&l=3"
+  }
+]
