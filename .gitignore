@@ -2,3 +2,9 @@
 .env
 __pycache__/
 *.pyc
+
+openmontage/
+videos/*
+
+!videos/crowdwisdom_ad_final_sfx.mp4
+videos/
